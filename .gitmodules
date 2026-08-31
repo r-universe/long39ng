@@ -5,6 +5,9 @@
 [submodule "animejs"]
 	path = animejs
 	url = https://github.com/long39ng/animejs
+[submodule "gganime"]
+	path = gganime
+	url = https://github.com/long39ng/gganime
 [submodule "remmy"]
 	path = remmy
 	url = https://github.com/long39ng/remmy
